@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# (Jonathan Moreen) - (M1) Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I would like to become comfortable with Ruby and when I don't know the answer to something be able to find the answer through a variety of resources.
 
 ## Rubric Scores
 
@@ -59,12 +59,9 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 (Intro)
 
 ### Gear Up
-#### Vote Your Conscience
+#### 
 
-* [https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown]()
-
-It was difficult to refrain from talking about the current election in the context of this discussion, but I was totally impressed by everyone's judicious efforts to not inject their own personal opinions into the fray. We were all more or less in agreement that we appreciated when leaders are able to clearly articulate their positions while remaining pragmatic about their proposed solutions.  
-
+When working on a project of homework and I get stuck I can have a fixed mindset.  Things came more easily at the last job, perhaps because I could see where I was going.  Having a fixed mindset can occur more often when I've spent all day studying, but don't even know where to begin.
 
 ### Professional Development Workshops
 #### (Session Name)
